@@ -4,5 +4,14 @@ welcome to kajal class
 java
 os
  sql
+ 
+ 
+ hadoop
+ python
+ 
  Thank you
+
+done my changes on new branch
+
 beyond learning
+
